@@ -1,7 +1,4 @@
-import os
-print("Aktif dizin giriniz: ",os.getcwd())
+def musarad():
+    pass
 
-yer = os.getcwd()
-yer += "/proje2"
-os.chdir(yer)
-open("taha.dt","w")
+
